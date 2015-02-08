@@ -2,5 +2,5 @@
 Our first easy project on c++. We'll try to make something interesting, guys!
 
 Programmers:
-George Popoff - lead programmer.
-Ilya Gorbunov - second programmer.
+George Popoff - Bodyguard.
+Ilya Gorbunov - Main programmer.
